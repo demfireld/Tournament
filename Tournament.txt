@@ -1,0 +1,11 @@
+RabbitMe server
+
+Masstransit
+Masstransit.RabbitMq
+Microsoft.AspNetCore.Authentication.JwtBearer
+Microsoft.AspNetCore.Identity.EntityFrameWorkCore
+Microsoft.EntityFrameworkcore
+Microsoft.EntityFrameworkCore.SqlServer
+Microsoft.EntityFrameworkCore.Tools
+Microsoft.AspNet.Cors
+ocelot
